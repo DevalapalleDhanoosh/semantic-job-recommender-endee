@@ -1,4 +1,4 @@
-\# 💼 Semantic Job Recommendation Engine
+\#  Semantic Job Recommendation Engine
 
 
 
@@ -10,7 +10,7 @@ An AI-powered job recommendation system that uses \*\*vector similarity search\*
 
 
 
-\## 🧠 Problem Statement
+\##  Problem Statement
 
 
 
@@ -30,7 +30,7 @@ This system solves that by converting both skills and job descriptions into \*\*
 
 
 
-\## 🏗️ System Design
+\##  System Design
 
 ```
 
@@ -94,7 +94,7 @@ Endee serves as the core vector database powering semantic search:
 
 
 
-\## 🚀 Setup \& Installation
+\##  Setup \& Installation
 
 
 
@@ -202,7 +202,7 @@ Open `http://localhost:8501` in your browser.
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 ```
 
@@ -232,7 +232,7 @@ semantic-job-recommender-endee/
 
 
 
-\## 🛠️ Tech Stack
+\##  Tech Stack
 
 
 
@@ -258,19 +258,19 @@ semantic-job-recommender-endee/
 
 
 
-\## ✨ Features
+\##  Features
 
 
 
-\- 🔍 \*\*Semantic Search\*\* — understands meaning, not just keywords
+\-  \*\*Semantic Search\*\* — understands meaning, not just keywords
 
-\- 🤖 \*\*AI Summary\*\* — personalized explanation of why each job fits
+\-  \*\*AI Summary\*\* — personalized explanation of why each job fits
 
-\- 📊 \*\*Similarity Scores\*\* — ranked results with cosine similarity scores
+\-  \*\*Similarity Scores\*\* — ranked results with cosine similarity scores
 
-\- 🎛️ \*\*Adjustable Results\*\* — choose 3–10 job recommendations
+\-  \*\*Adjustable Results\*\* — choose 3–10 job recommendations
 
-\- 🏠 \*\*Remote Filter\*\* — see remote availability per job
+\-  \*\*Remote Filter\*\* — see remote availability per job
 
 
 
@@ -278,7 +278,7 @@ semantic-job-recommender-endee/
 
 
 
-\## 📄 Dataset
+\##  Dataset
 
 
 
